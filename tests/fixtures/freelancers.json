@@ -1,0 +1,123 @@
+{
+ "status": "success",
+ "data": {
+  "current_page": 1,
+  "data": [
+   {
+    "id": 1408809,
+    "username": "Shayan.S",
+    "avatar": "https://www.karlancer.com/f/avatar/2626/1782289178-kxi1.jpg",
+    "video_avatar": null,
+    "country": "تهران",
+    "city": "تهران",
+    "on_time": 92,
+    "active_plan_id": 27,
+    "skills": [
+     {
+      "name": "python"
+     },
+     {
+      "name": "ساخت ربات"
+     },
+     {
+      "name": "پایتون"
+     },
+     {
+      "name": "برنامه نویسی"
+     },
+     {
+      "name": "جاوا اسکریپت (Javascript)"
+     },
+     {
+      "name": "برنامه نویسی c#"
+     },
+     {
+      "name": "golang"
+     },
+     {
+      "name": "rust"
+     },
+     {
+      "name": "برنامه نویسی C++"
+     },
+     {
+      "name": "php"
+     }
+    ],
+    "rate": 4.6,
+    "rate_num": 44,
+    "verified_national_card": true,
+    "quiz_type": 15,
+    "quiz_num": 5,
+    "quiz_point": 25,
+    "last_visit": "2026-10-31T20:30:34.000000Z",
+    "is_online": false,
+    "gender": "male"
+   },
+   {
+    "id": 114917,
+    "username": "Saman.A",
+    "avatar": "https://www.karlancer.com/f/avatar/1706965214-SFJU.jpg",
+    "video_avatar": null,
+    "country": "تهران",
+    "city": "تهران",
+    "on_time": 100,
+    "active_plan_id": 27,
+    "skills": [
+     {
+      "name": "vue.js"
+     },
+     {
+      "name": "node js"
+     },
+     {
+      "name": "nginx"
+     },
+     {
+      "name": "n8n"
+     },
+     {
+      "name": "ubuntu"
+     },
+     {
+      "name": "برنامه نویسی"
+     },
+     {
+      "name": "python"
+     },
+     {
+      "name": "طراحی سایت"
+     },
+     {
+      "name": "وردپرس"
+     },
+     {
+      "name": "php"
+     }
+    ],
+    "rate": 4.9,
+    "rate_num": 28,
+    "verified_national_card": true,
+    "quiz_type": 15,
+    "quiz_num": 1,
+    "quiz_point": 5,
+    "last_visit": "2026-10-31T14:36:50.000000Z",
+    "is_online": false,
+    "gender": "male"
+   }
+  ],
+  "first_page_url": "http://www.karlancer.com/api/publics/search/freelancers?page=1",
+  "from": 1,
+  "last_page": 417,
+  "last_page_url": "http://www.karlancer.com/api/publics/search/freelancers?page=417",
+  "next_page_url": "http://www.karlancer.com/api/publics/search/freelancers?page=2",
+  "path": "http://www.karlancer.com/api/publics/search/freelancers",
+  "per_page": 24,
+  "prev_page_url": null,
+  "to": 24,
+  "total": 10000,
+  "skills_data": null,
+  "order": "best"
+ },
+ "error": null
+}

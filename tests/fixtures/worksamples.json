@@ -1,0 +1,178 @@
+{
+ "status": "success",
+ "data": {
+  "current_page": 1,
+  "data": [
+   {
+    "id": 721255,
+    "user_id": 1602210,
+    "banner_file_id": 4289697,
+    "title": "طراحی لوگوموشن سه‌بعدی لوکس | Golden Cinematic Logo Reveal",
+    "views": 15,
+    "previews": 6,
+    "views_previews_ratio": 1.4,
+    "description": "طراحی یک کانسپت لوگوموشن با سبک مدرن و لوکس، ترکیب رنگ مشکی و طلایی، نورپردازی سینمایی و افکت ذرات نورانی.\n\nدر این طرح، لوگو با حرکت خطوط نور طلایی و جلوه‌های سه‌بعدی به‌تدریج نمایان می‌شود و در پایان، با یک نمایش تمیز و چشم‌نواز به تصویر می‌رسد.\n\nویژگی‌های طرح:\n\nطراحی بصری سه‌بعدی با جلوه فلزی طلایی\n\nنورپردازی سینمایی و بازتاب روی سطح تیره\n\nافکت ذرات طلایی و خطوط نور متحرک در کانسپت\n\nسبک مینیمال و مناسب برندهای لوکس و حرفه‌ای\n\nهدف: ایجاد شروعی جذاب و ماندگار برای ویدئوهای تبلیغاتی، معرفی برند و محتوای شبکه‌های اجتماعی.\n\nنوع پروژه: کانسپت بصری لوگوموشن — استوری‌بورد تصویری",
+    "url": "طراحی-لوگوموشن-سهبعدی-لوکس-golden-cinematic-logo-reveal-e049mo32084r",
+    "likes": 0,
+    "file_urls": [
+     {
+      "id": 4289678,
+      "name": "Golden Logo Reveal Storyboard (1).png",
+      "url": "https://www.karlancer.com/api/file/2644/1793006107-NJAr.png",
+      "mime_type": "image/jpeg"
+     },
+     {
+      "id": 4289697,
+      "name": "golden_logo_reveal_sample.mp4",
+      "url": "https://www.karlancer.com/api/file/2644/1793006640-3J7Z.mp4",
+      "mime_type": "video/mp4"
+     }
+    ],
+    "banner": {
+     "id": 4289697,
+     "name": "golden_logo_reveal_sample.mp4",
+     "url": "https://www.karlancer.com/api/file/2644/1793006640-3J7Z.mp4",
+     "mime_type": "video/mp4"
+    },
+    "skills": [
+     {
+      "name": "طراحی لوگو",
+      "id": 14
+     },
+     {
+      "name": "طراحی هویت بصری",
+      "id": 3185
+     }
+    ],
+    "user": {
+     "id": 1602210,
+     "username": "Hamidreza.N",
+     "avatar": "https://www.karlancer.com/f/avatar/2643/1792854987-usI2.png",
+     "country": "سمنان",
+     "active_plan_id": 17,
+     "rate": 5,
+     "rate_num": 1,
+     "verified_national_card": true
+    },
+    "shortened_url": "klnc.ir/l/jlolmvyj",
+    "min_budget": 250000,
+    "max_budget": 400000,
+    "duration": 1,
+    "category_id": 2,
+    "subcategory_id": 13,
+    "subcategory_name": "طراحی لوگو"
+   },
+   {
+    "id": 685185,
+    "user_id": 733313,
+    "banner_file_id": 4044671,
+    "title": "طراحی لوگو سبک مینیمال و خاص | F Logo",
+    "views": 27,
+    "previews": 8,
+    "views_previews_ratio": 1.2963,
+    "description": "طراحی لوگو به سبک مینیمال مینیمال توسط Illustrator \nلوگو تایپ\nحرفه ای\nمینیمال\nAdobe Illustrator\nAdobe XD\nFigma",
+    "url": "طراحی-لوگو-سبک-مینیمال-خاص-f-logo-594312353348",
+    "likes": 0,
+    "file_urls": [
+     {
+      "id": 4044671,
+      "name": "F.png",
+      "url": "https://www.karlancer.com/api/file/2630/1785016910-sYAT.png",
+      "mime_type": "image/jpeg"
+     },
+     {
+      "id": 4044672,
+      "name": "Flogo_Full.jpg",
+      "url": "https://www.karlancer.com/api/file/2630/1785016923-C4tJ.jpg",
+      "mime_type": "image/jpeg"
+     },
+     {
+      "id": 4044673,
+      "name": "Flogo_Blue.jpg",
+      "url": "https://www.karlancer.com/api/file/2630/1785016925-57nQ.jpg",
+      "mime_type": "image/jpeg"
+     },
+     {
+      "id": 4044674,
+      "name": "Flogo_White.jpg",
+      "url": "https://www.karlancer.com/api/file/2630/1785016934-LSYH.jpg",
+      "mime_type": "image/jpeg"
+     }
+    ],
+    "banner": {
+     "id": 4044671,
+     "name": "F.png",
+     "url": "https://www.karlancer.com/api/file/2630/1785016910-sYAT.png",
+     "mime_type": "image/jpeg"
+    },
+    "skills": [
+     {
+      "name": "طراحی لوگو",
+      "id": 14
+     },
+     {
+      "name": "adobe xd",
+      "id": 8754
+     },
+     {
+      "name": "طراحی خاص",
+      "id": 22092
+     },
+     {
+      "name": "figma",
+      "id": 7245
+     },
+     {
+      "name": "adobe illusrator",
+      "id": 26772
+     },
+     {
+      "name": "طراحی مینیمال",
+      "id": 27321
+     },
+     {
+      "name": "طراحی گرافیک",
+      "id": 1310
+     },
+     {
+      "name": "logodesign",
+      "id": 10385
+     },
+     {
+      "name": "طراحی UI/UX",
+      "id": 1315
+     }
+    ],
+    "user": {
+     "id": 733313,
+     "username": "Fariba.A",
+     "avatar": "https://www.karlancer.com/f/avatar/2630/1785016877-pCA0.jpg",
+     "country": "تهران",
+     "active_plan_id": 10,
+     "rate": 4.6,
+     "rate_num": 13,
+     "verified_national_card": true
+    },
+    "shortened_url": "klnc.ir/l/x2ml5n4j",
+    "min_budget": null,
+    "max_budget": null,
+    "duration": null,
+    "category_id": null,
+    "subcategory_id": null,
+    "subcategory_name": null
+   }
+  ],
+  "first_page_url": "http://www.karlancer.com/api/publics/search/worksamples?page=1",
+  "from": 1,
+  "last_page": 85,
+  "last_page_url": "http://www.karlancer.com/api/publics/search/worksamples?page=85",
+  "next_page_url": "http://www.karlancer.com/api/publics/search/worksamples?page=2",
+  "path": "http://www.karlancer.com/api/publics/search/worksamples",
+  "per_page": 16,
+  "prev_page_url": null,
+  "to": 16,
+  "total": 1357,
+  "order": "newest"
+ },
+ "error": null
+}

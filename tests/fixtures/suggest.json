@@ -1,0 +1,33 @@
+{
+ "status": "success",
+ "data": {
+  "suggested": [
+   {
+    "id": 337608,
+    "url": "نیازمند-فردی-برای-آموزش-کارگاه-e781r5me46o1",
+    "title": "نیازمند فردی برای آموزش ساخت دستیار ai",
+    "max_budget": 4800000,
+    "job_duration": 7,
+    "shortened_url": "klnc.ir/l/je07wp5x"
+   },
+   {
+    "id": 337618,
+    "url": "پیادهسازی-تحلیل-مدل-یادگیری-عمیق-r78wr0mnr61w",
+    "title": "پیاده‌سازی و تحلیل مدل یادگیری عمیق",
+    "max_budget": 9000000,
+    "job_duration": 6,
+    "shortened_url": "klnc.ir/l/jd31yw6q"
+   },
+   {
+    "id": 337208,
+    "url": "آموزش-مقایسه-پنج-مدل-رگرسیون-ماشین-لرنینگ-e781r74e96o1",
+    "title": "آموزش و مقایسه پنج مدل رگرسیون ماشین لرنینگ",
+    "max_budget": 6000000,
+    "job_duration": 10,
+    "shortened_url": "klnc.ir/l/xokerw1j"
+   }
+  ],
+  "sponsor": []
+ },
+ "error": null
+}

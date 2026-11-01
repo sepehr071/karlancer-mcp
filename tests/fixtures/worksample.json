@@ -1,0 +1,82 @@
+{
+ "status": "success",
+ "data": {
+  "id": 721255,
+  "url": "طراحی-لوگوموشن-سهبعدی-لوکس-golden-cinematic-logo-reveal-e049mo32084r",
+  "user_id": 1602210,
+  "title": "طراحی لوگوموشن سه‌بعدی لوکس | Golden Cinematic Logo Reveal",
+  "views": 36,
+  "description": "طراحی یک کانسپت لوگوموشن با سبک مدرن و لوکس، ترکیب رنگ مشکی و طلایی، نورپردازی سینمایی و افکت ذرات نورانی.\n\nدر این طرح، لوگو با حرکت خطوط نور طلایی و جلوه‌های سه‌بعدی به‌تدریج نمایان می‌شود و در پایان، با یک نمایش تمیز و چشم‌نواز به تصویر می‌رسد.\n\nویژگی‌های طرح:\n\nطراحی بصری سه‌بعدی با جلوه فلزی طلای",
+  "likes": 0,
+  "shortened_url": "klnc.ir/l/jlolmvyj",
+  "min_budget": 250000,
+  "max_budget": 400000,
+  "duration": 1,
+  "category_id": 2,
+  "subcategory_id": 13,
+  "subcategory_name": "طراحی لوگو",
+  "banner": {
+   "id": 4289697,
+   "user_id": 1602210,
+   "mime_type": "video/mp4",
+   "name": "golden_logo_reveal_sample.mp4",
+   "url": "https://www.karlancer.com/api/file/2644/1793006640-3J7Z.mp4",
+   "size": 696538,
+   "text_detected": null
+  },
+  "skills": [
+   {
+    "id": 14,
+    "name": "طراحی لوگو",
+    "display": "طراحی لوگو",
+    "value": 14
+   },
+   {
+    "id": 3185,
+    "name": "طراحی هویت بصری",
+    "display": "طراحی هویت بصری",
+    "value": 3185
+   }
+  ],
+  "file_urls": [
+   {
+    "id": 4289678,
+    "user_id": 1602210,
+    "mime_type": "image/jpeg",
+    "name": "Golden Logo Reveal Storyboard (1).png",
+    "url": "https://www.karlancer.com/api/file/2644/1793006107-NJAr.png",
+    "size": 240686,
+    "text_detected": null
+   },
+   {
+    "id": 4289697,
+    "user_id": 1602210,
+    "mime_type": "video/mp4",
+    "name": "golden_logo_reveal_sample.mp4",
+    "url": "https://www.karlancer.com/api/file/2644/1793006640-3J7Z.mp4",
+    "size": 696538,
+    "text_detected": null
+   }
+  ],
+  "user": {
+   "id": 1602210,
+   "username": "Hamidreza.N",
+   "rate": 5,
+   "last_online": "۱ ساعت و ۵۷ دقیقه پیش",
+   "rate_num": 1,
+   "quiz_type": 15,
+   "quiz_num": 1,
+   "country": "سمنان",
+   "city": null,
+   "avatar": "https://www.karlancer.com/f/avatar/2643/1792854987-usI2.png",
+   "active_plan_id": 17,
+   "profile_status_info": {
+    "verified_national_card": true
+   },
+   "verified_national_card": true
+  },
+  "similar_worksamples": [],
+  "breadcrumbs": []
+ },
+ "error": null
+}

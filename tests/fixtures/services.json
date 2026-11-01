@@ -1,0 +1,134 @@
+{
+ "status": "success",
+ "data": {
+  "current_page": 1,
+  "data": [
+   {
+    "id": 41682,
+    "type": "default",
+    "user_id": 1511198,
+    "short_description": "",
+    "title": "طراحی لوگویی منحصر به‌ فرد و خاص",
+    "budget": 500000,
+    "duration": 2,
+    "banner_file_id": 4158717,
+    "banner": {
+     "id": 4158717,
+     "name": "b3846a60-00ef-42cb-ad3e-b11b2e27d99e.png",
+     "url": "https://www.karlancer.com/api/file/2636/1788449323-Q19D.png",
+     "mime_type": "image/jpeg"
+    },
+    "url": "طراحی-لوگویی-منحصر-به-فرد-خاص-n923oon6r2wm",
+    "shortened_url": "klnc.ir/services/طراحی-لوگویی-منحصر-به-فرد-خاص-n923oon6r2wm",
+    "base_url": null,
+    "feature": false,
+    "files": [
+     {
+      "id": 4158718,
+      "name": "photo_2026-08-29_19-59-39.jpg",
+      "url": "https://www.karlancer.com/api/file/2636/1788449330-6hBP.jpg",
+      "mime_type": "image/jpeg"
+     },
+     {
+      "id": 4158719,
+      "name": "photo_2026-08-29_19-59-32.jpg",
+      "url": "https://www.karlancer.com/api/file/2636/1788449356-fk9k.jpg",
+      "mime_type": "image/jpeg"
+     },
+     {
+      "id": 4158720,
+      "name": "photo_2026-08-29_19-59-43.jpg",
+      "url": "https://www.karlancer.com/api/file/2636/1788449356-9whw.jpg",
+      "mime_type": "image/jpeg"
+     },
+     {
+      "id": 4158721,
+      "name": "photo_2026-08-29_20-03-07.jpg",
+      "url": "https://www.karlancer.com/api/file/2636/1788449356-5Rza.jpg",
+      "mime_type": "image/jpeg"
+     }
+    ],
+    "rate": 5,
+    "rate_num": 1,
+    "user": {
+     "id": 1511198,
+     "username": "Ali.G",
+     "avatar": "https://www.karlancer.com/f/avatar/2635/1788029676-cVQv.jpg",
+     "active_plan_id": 10
+    }
+   },
+   {
+    "id": 41298,
+    "type": "default",
+    "user_id": 59226,
+    "short_description": "",
+    "title": "طراحی لوگو و لوگو موشن بصورت حرفه ای",
+    "budget": 3000000,
+    "duration": 5,
+    "banner_file_id": 4118918,
+    "banner": {
+     "id": 4118918,
+     "name": "1787237606438.png",
+     "url": "https://www.karlancer.com/api/file/2634/1787237749-LUrE.png",
+     "mime_type": "image/jpeg"
+    },
+    "url": "توسعه-ربات-تلگرام-بصورت-اختصاصی-زبات-پایتون-w429oo4r02n0",
+    "shortened_url": "klnc.ir/l/q84lnz2x",
+    "base_url": null,
+    "feature": true,
+    "files": [
+     {
+      "id": 4118913,
+      "name": "gemini_generated_video_db4ef82e.mp4",
+      "url": "https://www.karlancer.com/api/file/2634/1787237169-kNv4.mp4",
+      "mime_type": "video/mp4"
+     },
+     {
+      "id": 4118914,
+      "name": "IMG_20260820_174029_031.jpg",
+      "url": "https://www.karlancer.com/api/file/2634/1787237191-xAUL.jpg",
+      "mime_type": "image/jpeg"
+     },
+     {
+      "id": 4118915,
+      "name": "IMG_20260820_174043_141.jpg",
+      "url": "https://www.karlancer.com/api/file/2634/1787237191-Q1mz.jpg",
+      "mime_type": "image/jpeg"
+     },
+     {
+      "id": 4118916,
+      "name": "file_00000000d85882469a33c7d334904002.png",
+      "url": "https://www.karlancer.com/api/file/2634/1787237193-GKSe.png",
+      "mime_type": "image/png"
+     },
+     {
+      "id": 4118917,
+      "name": "gemini_generated_video_783b26ea.mp4",
+      "url": "https://www.karlancer.com/api/file/2634/1787237795-LBgs.mp4",
+      "mime_type": "video/mp4"
+     }
+    ],
+    "rate": 5,
+    "rate_num": 1,
+    "user": {
+     "id": 59226,
+     "username": "Mahyar.N",
+     "avatar": "https://www.karlancer.com/f/avatar/2634/1787239078-UCXD.jpeg",
+     "active_plan_id": 10
+    }
+   }
+  ],
+  "first_page_url": "http://www.karlancer.com/api/publics/search/services?page=1",
+  "from": 1,
+  "last_page": 3,
+  "last_page_url": "http://www.karlancer.com/api/publics/search/services?page=3",
+  "next_page_url": "http://www.karlancer.com/api/publics/search/services?page=2",
+  "path": "http://www.karlancer.com/api/publics/search/services",
+  "per_page": 12,
+  "prev_page_url": null,
+  "to": 12,
+  "total": 26,
+  "order": "newest"
+ },
+ "error": null
+}

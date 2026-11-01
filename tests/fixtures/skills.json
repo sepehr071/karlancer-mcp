@@ -1,0 +1,160 @@
+{
+ "status": "success",
+ "data": {
+  "طراحی و گرافیک": [
+   {
+    "category_id": 2,
+    "url": "https://www.karlancer.com/hire/indesign",
+    "name": "ایندیزاین (InDesign)"
+   },
+   {
+    "category_id": 2,
+    "url": "https://www.karlancer.com/hire/vray",
+    "name": "وی ری (VRay)"
+   }
+  ],
+  "تولید محتوا": [
+   {
+    "category_id": 3,
+    "url": "https://www.karlancer.com/hire/content-writing",
+    "name": "مقاله نویسی"
+   },
+   {
+    "category_id": 3,
+    "url": "https://www.karlancer.com/hire/English-content",
+    "name": "تولید محتوا به انگلیسی"
+   }
+  ],
+  "ترجمه": [
+   {
+    "category_id": 4,
+    "url": "https://www.karlancer.com/hire/farsi-turkish-translate",
+    "name": "ترجمه ترکی"
+   },
+   {
+    "category_id": 4,
+    "url": "https://www.karlancer.com/hire/medical-translation",
+    "name": "ترجمه تخصصی پزشکی"
+   }
+  ],
+  "تایپ و ورود داده": [
+   {
+    "category_id": 5,
+    "url": "https://www.karlancer.com/hire/voice-to-text",
+    "name": "تبدیل صوت به متن"
+   },
+   {
+    "category_id": 5,
+    "url": "https://www.karlancer.com/hire/data-entry",
+    "name": "ورود اطلاعات (Data Entry)"
+   }
+  ],
+  "برنامه نویسی و طراحی سایت": [
+   {
+    "category_id": 6,
+    "url": "https://www.karlancer.com/hire/redis",
+    "name": "استخدام برنامه نویس Redis"
+   },
+   {
+    "category_id": 6,
+    "url": "https://www.karlancer.com/hire/wordpress",
+    "name": "طراحی سایت با وردپرس"
+   }
+  ],
+  "عکس، انیمیشن و ویدئو": [
+   {
+    "category_id": 7,
+    "url": "https://www.karlancer.com/hire/adobe-animate",
+    "name": "ادوبی انیمیت"
+   },
+   {
+    "category_id": 7,
+    "url": "https://www.karlancer.com/hire/video",
+    "name": "تدوین ویدئو و استخدام تدوینگر دورکاری"
+   }
+  ],
+  "دیجیتال مارکتینگ و سئو": [
+   {
+    "category_id": 8,
+    "url": "https://www.karlancer.com/hire/increase-input-of-google",
+    "name": "سفارش افزایش بازدید سایت و ورودی گوگل"
+   },
+   {
+    "category_id": 8,
+    "url": "https://www.karlancer.com/hire/telegram-ads",
+    "name": "خرید تلگرام ادز"
+   }
+  ],
+  "گویندگی و موسیقی": [
+   {
+    "category_id": 9,
+    "url": "https://www.karlancer.com/hire/cubase",
+    "name": "کیوبیس Cubase"
+   },
+   {
+    "category_id": 9,
+    "url": "https://www.karlancer.com/hire/film-scoring",
+    "name": "آهنگسازی فیلم"
+   }
+  ],
+  "ادمین و دستیار مجازی": [
+   {
+    "category_id": 10,
+    "url": "https://www.karlancer.com/hire/social-media-management",
+    "name": "ادمین و مدیریت شبکه های اجتماعی"
+   },
+   {
+    "category_id": 10,
+    "url": "https://www.karlancer.com/hire/sales-expert",
+    "name": "کارشناس فروش"
+   }
+  ],
+  "خدمات کسب و کار": [
+   {
+    "category_id": 11,
+    "url": "https://www.karlancer.com/hire/company-registration",
+    "name": "ثبت شرکت ارزان و فوری"
+   },
+   {
+    "category_id": 11,
+    "url": "https://www.karlancer.com/hire/writing-contract",
+    "name": "تنظیم قرارداد"
+   }
+  ],
+  "سایر دسته بندی ها": [
+   {
+    "category_id": 12,
+    "url": "https://www.karlancer.com/hire/tekla-structures",
+    "name": "سفارش پروژه تکلا استراکچرز (Tekla Structures)"
+   },
+   {
+    "category_id": 12,
+    "url": "https://www.karlancer.com/hire/safe",
+    "name": "سیف (SAFE)"
+   }
+  ],
+  "صفحات مادر": [
+   {
+    "url": "https://www.karlancer.com/graphic-design",
+    "name": "طراحی گرافیک"
+   },
+   {
+    "url": "https://www.karlancer.com/content",
+    "name": "تولید محتوا"
+   }
+  ],
+  "خدمات کارلنسر در سایر شهر ها": [
+   {
+    "category_id": 2,
+    "url": "https://www.karlancer.com/hire/web-design/city-isfahan",
+    "name": "طراحی سایت در اصفهان"
+   },
+   {
+    "category_id": 2,
+    "url": "https://www.karlancer.com/hire/web-design/city-mashhad",
+    "name": "طراحی سایت در مشهد"
+   }
+  ]
+ },
+ "error": null
+}

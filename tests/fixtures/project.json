@@ -1,0 +1,113 @@
+{
+ "status": "success",
+ "data": {
+  "id": 337608,
+  "url": "نیازمند-فردی-برای-آموزش-کارگاه-e781r5me46o1",
+  "rate": 5,
+  "rate_num": 7,
+  "country": "تهران",
+  "category_id": 6,
+  "breadcrumbs": [
+   {
+    "id": "578",
+    "name": "برنامه نویسی",
+    "url": "https://www.karlancer.com/jobs/programming"
+   },
+   {
+    "id": "800",
+    "name": "پروژه های ساخت ربات",
+    "url": "https://www.karlancer.com/jobs/social-media-bot"
+   }
+  ],
+  "title": "نیازمند فردی برای آموزش ساخت دستیار ai",
+  "description": "درود دوستان بنده نیازمند عزیزی هستم مسلط به ai / ai vibecoding برای ساخت دستیار هوشمند باشند برای آموزش",
+  "status": "pending",
+  "hire_deadline": "2026-12-01T18:59:00.000000+03:30",
+  "job_duration": 7,
+  "min_budget": 1200000,
+  "max_budget": 4800000,
+  "files": [],
+  "admin_note": null,
+  "is_highlight": false,
+  "is_urgent": false,
+  "is_fulltime": true,
+  "is_onsite": false,
+  "is_pin": false,
+  "is_multi": false,
+  "is_ladder": false,
+  "is_expired": false,
+  "is_activated": false,
+  "is_invisible": false,
+  "determined_budget": false,
+  "past_time": "۵ ساعت  پیش",
+  "users_bid": null,
+  "skills": [
+   {
+    "id": 1282,
+    "name": "برنامه نویسی",
+    "display": "برنامه نویسی",
+    "value": 1282
+   },
+   {
+    "id": 3850,
+    "name": "کدنویسی",
+    "display": "کدنویسی",
+    "value": 3850
+   },
+   {
+    "id": 2274,
+    "name": "برنامه نویسی وب",
+    "display": "برنامه نویسی وب",
+    "value": 2274
+   },
+   {
+    "id": 3984,
+    "name": "ساخت ربات",
+    "display": "ساخت ربات",
+    "value": 3984
+   },
+   {
+    "id": 3147,
+    "name": "ربات",
+    "display": "ربات",
+    "value": 3147
+   },
+   {
+    "id": 9580,
+    "name": "طراحی ربات",
+    "display": "طراحی ربات",
+    "value": 9580
+   },
+   {
+    "id": 9923,
+    "name": "python",
+    "display": "python",
+    "value": 9923
+   },
+   {
+    "id": 1369,
+    "name": "پایتون",
+    "display": "پایتون",
+    "value": 1369
+   },
+   {
+    "id": 3146,
+    "name": "هوش مصنوعی",
+    "display": "هوش مصنوعی",
+    "value": 3146
+   },
+   {
+    "id": 35899,
+    "name": "متخصص هوش مصنوعی",
+    "display": "متخصص هوش مصنوعی",
+    "value": 35899
+   }
+  ],
+  "created_at": "2026-10-31T11:25:48.000000Z",
+  "user_id": 715502,
+  "shortened_url": "klnc.ir/l/je07wp5x",
+  "token": 4,
+  "low_hire": null
+ },
+ "error": null
+}

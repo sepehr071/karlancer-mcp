@@ -1,0 +1,170 @@
+{
+ "status": "success",
+ "data": {
+  "current_page": 1,
+  "data": [
+   {
+    "id": 337608,
+    "user_id": 715502,
+    "title": "نیازمند فردی برای آموزش ساخت دستیار ai",
+    "description": "درود دوستان بنده نیازمند عزیزی هستم مسلط به ai / ai vibecoding برای ساخت دستیار هوشمند باشند برای آموزش",
+    "status": "pending",
+    "job_duration": 7,
+    "min_budget": 1200000,
+    "max_budget": 4800000,
+    "files": [],
+    "country": "تهران",
+    "category_id": 6,
+    "rate": 5,
+    "rate_num": 7,
+    "is_highlight": false,
+    "is_urgent": false,
+    "is_fulltime": false,
+    "is_onsite": false,
+    "is_pin": false,
+    "is_multi": false,
+    "is_ladder": false,
+    "is_expired": false,
+    "ladder_at": "2026-10-31T17:00:12.000000+03:30",
+    "is_invisible": false,
+    "past_time": "۷ ساعت  پیش",
+    "url": "نیازمند-فردی-برای-آموزش-کارگاه-e781r5me46o1",
+    "users_bid": null,
+    "skills": [
+     {
+      "name": "برنامه نویسی",
+      "id": 1282
+     },
+     {
+      "name": "کدنویسی",
+      "id": 3850
+     },
+     {
+      "name": "برنامه نویسی وب",
+      "id": 2274
+     },
+     {
+      "name": "ساخت ربات",
+      "id": 3984
+     },
+     {
+      "name": "ربات",
+      "id": 3147
+     },
+     {
+      "name": "طراحی ربات",
+      "id": 9580
+     },
+     {
+      "name": "python",
+      "id": 9923
+     },
+     {
+      "name": "پایتون",
+      "id": 1369
+     },
+     {
+      "name": "هوش مصنوعی",
+      "id": 3146
+     },
+     {
+      "name": "متخصص هوش مصنوعی",
+      "id": 35899
+     }
+    ],
+    "determined_budget": false,
+    "shortened_url": "klnc.ir/l/je07wp5x",
+    "token": 4,
+    "successful_projects_percentage": 0,
+    "low_hire": true
+   },
+   {
+    "id": 337627,
+    "user_id": 1611210,
+    "title": "ساخت مینی‌اپ آموزشی تلگرام",
+    "description": "عنوان پروژه: ساخت مینی‌اپ آموزشی تلگرام خردیار\n\nسلام. یک مینی‌اپ آموزشی حرفه‌ای برای مدرسه می‌خواهم که داخل تلگرام اجرا شود.\n\nامکانات موردنیاز:\n\n1. ثبت‌نام و ورود دانش‌آموزان\n2. انتخاب پایه هفتم تا دوازدهم\n3. بخش درس‌ها و آموزش‌ها\n4. آزمون آنلاین و نمایش نمره\n5. معلم هوشمند متصل به هوش مصنوعی\n6. امکان ارسال عکس سؤال به هوش مصنوعی\n7. فروش نمونه‌سؤالات و فایل‌های آموزشی\n8. پنل مدیریت برای مدیر مدرسه\n9. دیتابیس واقعی برای ذخیره اطلاعات\n10. اتصال کامل به ربات تلگرام\n\nشرایط مهم:\n\n- طراحی مدرن و کاملاً فارسی\n- نسخه موبایل و تلگرام\n- تحویل سورس کد کامل\n- آموزش مدیریت و راه‌اندازی\n- پشتیبانی رفع باگ\n- اعلام هزینه نهایی و زمان تحویل\n- امکان ساخت مرحله‌ای با کمترین هزینه\n\nلطفاً نمونه‌کار واقعی مینی‌اپ تلگرام خود را ارسال کنید.",
+    "status": "pending",
+    "job_duration": 7,
+    "min_budget": 1200000,
+    "max_budget": 4000000,
+    "files": [],
+    "country": "تهران",
+    "category_id": 6,
+    "rate": "N/A",
+    "rate_num": 0,
+    "is_highlight": false,
+    "is_urgent": false,
+    "is_fulltime": false,
+    "is_onsite": false,
+    "is_pin": false,
+    "is_multi": false,
+    "is_ladder": false,
+    "is_expired": false,
+    "ladder_at": "2026-10-31T15:56:06.000000+03:30",
+    "is_invisible": false,
+    "past_time": "۸ ساعت  پیش",
+    "url": "ساخت-مینیاپ-آموزشی-تلگرام-1e82rn1r383w",
+    "users_bid": null,
+    "skills": [
+     {
+      "name": "برنامه نویسی",
+      "id": 1282
+     },
+     {
+      "name": "ساخت ربات تلگرام",
+      "id": 1563
+     },
+     {
+      "name": "پنل مدیریت",
+      "id": 2631
+     },
+     {
+      "name": "کدنویسی",
+      "id": 3850
+     },
+     {
+      "name": "برنامه نویسی وب",
+      "id": 2274
+     },
+     {
+      "name": "ساخت ربات",
+      "id": 3984
+     },
+     {
+      "name": "ربات",
+      "id": 3147
+     },
+     {
+      "name": "طراحی ربات",
+      "id": 9580
+     },
+     {
+      "name": "python",
+      "id": 9923
+     },
+     {
+      "name": "پایتون",
+      "id": 1369
+     }
+    ],
+    "determined_budget": false,
+    "shortened_url": "klnc.ir/l/xmk18w8q",
+    "token": 3,
+    "successful_projects_percentage": 0,
+    "low_hire": false
+   }
+  ],
+  "first_page_url": "http://www.karlancer.com/api/publics/search/projects?page=1",
+  "from": 1,
+  "last_page": 211,
+  "last_page_url": "http://www.karlancer.com/api/publics/search/projects?page=211",
+  "next_page_url": "http://www.karlancer.com/api/publics/search/projects?page=2",
+  "path": "http://www.karlancer.com/api/publics/search/projects",
+  "per_page": 24,
+  "prev_page_url": null,
+  "to": 24,
+  "total": 5043,
+  "order": "newest"
+ },
+ "error": null
+}

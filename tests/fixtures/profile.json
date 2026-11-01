@@ -1,0 +1,274 @@
+{
+ "status": "success",
+ "data": {
+  "id": 1408809,
+  "username": "Shayan.S",
+  "description": "درود 🌹\n\nمن توسعه‌دهنده Python هستم و در زمینه طراحی و توسعه ربات‌های تلگرام، اتوماسیون، اتصال APIها، کار با دیتابیس و توسعه ابزارهای کاربردی فعالیت می‌کنم.\n\nتجربه انجام و تحویل پروژه‌های واقعی فریلنسری را دارم و در پروژه‌ها تمرکزم روی کدنویسی تمیز، عملکرد پایدار، رعایت دقیق نیازمندی‌های کارفرما و تحویل به‌موقع است.\n\nزمینه‌های اصلی فعالیت من:\n\n• Python و توسعه نرم‌افزار\n• طراحی و توسعه ربات‌های Telegram\n• وردپرس\n• اتوماسیون و ابزارهای کاربردی\n• API Integration\n• PostgreSQL و SQLite\n• Web Scraping\n• توسعه و اتصال سرویس‌های مختلف\n• توسعه پروژه‌های AI و اتوماسیون مبتنی بر هوش مصنوعی\n• C# و توسعه ربات‌های معاملاتی cTrader\n• JavaScript\n\nدر طول پروژه، ارتباط منظم با کارفرما، بررسی دقیق نیازمندی‌ها و تست نهایی برای اطمینان از عملکرد صحیح پروژه را در اولویت قرار می‌دهم.\n\nهدف من ارائه راه‌حل قابل استفاده، پایدار و قابل توسعه است؛ نه صرفاً تحویل چند فایل کد.\n\nخوشحال می‌شوم پروژه شما را با دقت و مسئولیت‌پذیری انجام دهم. 🙏",
+  "profile_status": 1471,
+  "profile_status_info": {
+   "long_description": true,
+   "avatar": true,
+   "education": true,
+   "review": true,
+   "work_experience": true,
+   "worksample": true,
+   "services": false,
+   "skills": true,
+   "verified_national_card": true,
+   "teacher": false,
+   "extra_info": true,
+   "video_avatar": false
+  },
+  "role": "freelancer",
+  "rate": 4.6,
+  "rate_num": 44,
+  "rate_sum": 204,
+  "country": "تهران",
+  "avatar": "https://www.karlancer.com/f/avatar/2626/1782289178-kxi1.jpg",
+  "video_avatar": null,
+  "active_plan_id": 27,
+  "answering_speed": "۱۰ دقیقه ",
+  "banner": null,
+  "educations": [
+   {
+    "id": 396351,
+    "user_id": 1408809,
+    "school": "دانشگاه ازاد واحد ورامین",
+    "title": "کارشناسی مهندسی کامپیوتر",
+    "country": "Tehran",
+    "start_date": 1402,
+    "end_date": "تاکنون",
+    "created_at": "2026-06-23T00:01:16.000000Z",
+    "updated_at": "2026-06-23T00:01:16.000000Z",
+    "deleted_at": null
+   }
+  ],
+  "experiences": [
+   {
+    "id": 343886,
+    "user_id": 1408809,
+    "company": "فریلنسری",
+    "title": "Python Developer & Automation Developer",
+    "country": "Tehran",
+    "start_date": 1404,
+    "end_date": "تاکنون",
+    "created_at": "2026-08-12T01:55:34.000000Z",
+    "updated_at": "2026-08-12T01:55:34.000000Z",
+    "deleted_at": null
+   },
+   {
+    "id": 343887,
+    "user_id": 1408809,
+    "company": "فریلنسری",
+    "title": "توسعه ربات معاملاتی برای cTrader  پیاده‌سازی یک cBot با C# برای اجرای استراتژی Breakout بر اساس کندل هدف، شامل انتخاب نماد، تعیین فاصله ورود Buy Stop و Sell Stop، محاسبه Stop Loss و Take Profit، محاسبه خودکار",
+    "country": "Tehran",
+    "start_date": 1404,
+    "end_date": "تاکنون",
+    "created_at": "2026-08-12T01:57:21.000000Z",
+    "updated_at": "2026-08-12T01:57:21.000000Z",
+    "deleted_at": null
+   },
+   {
+    "id": 330417,
+    "user_id": 1408809,
+    "company": "مجموعه ورزش های الکترونیک پاتریس",
+    "title": "مسئول IT و ادمین پیج اینستاگرام  فعال در حوزه مدیریت فنی، ادمینی و تولید محتوای پیج اینستاگرام، طراحی حرفه‌ای لوگو و کاور ویدیو، توسعه ربات‌های تلگرام و بله، اسکریپت‌نویسی حرفه‌ای و دارای مهارت تخصصی در زمینه Machine Learning.",
+    "country": "Tehran",
+    "start_date": 1402,
+    "end_date": "تاکنون",
+    "created_at": "2026-06-23T00:03:45.000000Z",
+    "updated_at": "2026-06-30T13:26:58.000000Z",
+    "deleted_at": null
+   }
+  ],
+  "last_online": "۳ دقیقه پیش",
+  "is_online": false,
+  "on_time": "۹۲",
+  "quiz_num": 5,
+  "quiz_sum": null,
+  "quiz_type": 15,
+  "success_rate": 93,
+  "pending_projects": null,
+  "in_progress_projects_count": 2,
+  "skills": [
+   {
+    "id": 9923,
+    "name": "python",
+    "display": "python",
+    "value": 9923,
+    "url_freelancer": "/hire/python"
+   },
+   {
+    "id": 3984,
+    "name": "ساخت ربات",
+    "display": "ساخت ربات",
+    "value": 3984,
+    "url_freelancer": null
+   },
+   {
+    "id": 1369,
+    "name": "پایتون",
+    "display": "پایتون",
+    "value": 1369,
+    "url_freelancer": "/hire/python"
+   },
+   {
+    "id": 1282,
+    "name": "برنامه نویسی",
+    "display": "برنامه نویسی",
+    "value": 1282,
+    "url_freelancer": null
+   },
+   {
+    "id": 9437,
+    "name": "جاوا اسکریپت (Javascript)",
+    "display": "جاوا اسکریپت (Javascript)",
+    "value": 9437,
+    "url_freelancer": "/hire/javascript"
+   },
+   {
+    "id": 2691,
+    "name": "برنامه نویسی c#",
+    "display": "برنامه نویسی c#",
+    "value": 2691,
+    "url_freelancer": "/hire/c-sharp"
+   },
+   {
+    "id": 9344,
+    "name": "golang",
+    "display": "golang",
+    "value": 9344,
+    "url_freelancer": null
+   },
+   {
+    "id": 9036,
+    "name": "rust",
+    "display": "rust",
+    "value": 9036,
+    "url_freelancer": null
+   },
+   {
+    "id": 1714,
+    "name": "برنامه نویسی C++",
+    "display": "برنامه نویسی C++",
+    "value": 1714,
+    "url_freelancer": "/hire/cpp"
+   },
+   {
+    "id": 8633,
+    "name": "php",
+    "display": "php",
+    "value": 8633,
+    "url_freelancer": "/hire/php"
+   }
+  ],
+  "reviews_pg": {
+   "current_page": 1,
+   "total": 44,
+   "last_page": 9,
+   "first_page_url": "http://www.karlancer.com/api/publics/new-profile/1408809?page=1",
+   "last_page_url": "http://www.karlancer.com/api/publics/new-profile/1408809?page=9",
+   "next_page_url": "http://www.karlancer.com/api/publics/new-profile/1408809?page=2",
+   "per_page": 5,
+   "prev_page_url": null,
+   "from": 1,
+   "to": 5,
+   "data": [
+    {
+     "id": 2767235,
+     "rater_name": "JA210HV6563",
+     "object_type": "project",
+     "parent_id": 337560,
+     "object_id": null,
+     "user_info": {
+      "username": "JA210HV6563",
+      "avatar": null
+     },
+     "type": "primary",
+     "rate": 5,
+     "rater_id": 939470,
+     "title": "دیپلوی آپدیت های جدید پروژه",
+     "reply": null,
+     "comment": "باتشکر از زحمات و انجام سریع پروژه",
+     "created_at": "2026-10-31T17:04:38.000000Z",
+     "updated_at": "2026-10-31T17:04:38.000000Z",
+     "project": {
+      "id": 337560,
+      "url": "دیپلوی-آپدیت-های-جدید-پروژه-r78wr0m5361w",
+      "category_id": 6,
+      "title": "دیپلوی آپدیت های جدید پروژه",
+      "budget": 3500000,
+      "max_budget": 3500000,
+      "rate": 5,
+      "shortened_url": "klnc.ir/l/x29gy84q"
+     },
+     "service": null
+    },
+    {
+     "id": 2762627,
+     "rater_name": "XB492LJ5261",
+     "object_type": "project",
+     "parent_id": 336852,
+     "object_id": null,
+     "user_info": {
+      "username": "XB492LJ5261",
+      "avatar": null
+     },
+     "type": "primary",
+     "rate": 5,
+     "rater_id": 1546331,
+     "title": "پیاده‌سازی الگوریتم تعیین ژئوئید با MATLAB",
+     "reply": null,
+     "comment": "بسیار سپاسگزارم \nبراي چندمین بار هست که پروژه به ایشون میدم‌ \nهم درست هم دقیق هم سریع تحویل میگیرم\nو تمام مواردی رو که میخوام با جزئیات تک به تک پیاده میکنن‌\nهمیشه هم سریع پاسخگو هستن‌ و قابل‌ اعتماد‌\nواقعا متشکرم",
+     "created_at": "2026-10-30T09:27:28.000000Z",
+     "updated_at": "2026-10-30T09:27:28.000000Z",
+     "project": {
+      "id": 336852,
+      "url": "پیادهسازی-الگوریتم-تعیین-ژئوئید-matlab-748524425623",
+      "category_id": 6,
+      "title": "پیاده‌سازی الگوریتم تعیین ژئوئید با MATLAB",
+      "budget": 1500000,
+      "max_budget": 1500000,
+      "rate": 5,
+      "shortened_url": "klnc.ir/l/x92z25yj"
+     },
+     "service": null
+    }
+   ]
+  },
+  "rate_categories": {
+   "2": {
+    "rate_num": 1,
+    "rate_sum": "5"
+   },
+   "5": {
+    "rate_num": 1,
+    "rate_sum": "5"
+   },
+   "6": {
+    "rate_num": 39,
+    "rate_sum": "179"
+   },
+   "8": {
+    "rate_num": 3,
+    "rate_sum": "15"
+   }
+  },
+  "completed_projects": {
+   "total": 44
+  },
+  "created_at": "2026-06-22T23:50:31.000000Z",
+  "phone_verified_at": "2026-06-23 03:20:45",
+  "advantage_badge": [
+   100,
+   102,
+   104,
+   108,
+   110,
+   112,
+   106,
+   114
+  ]
+ },
+ "error": null
+}

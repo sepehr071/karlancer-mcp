@@ -1,0 +1,162 @@
+{
+ "status": "success",
+ "data": [
+  {
+   "id": 119967,
+   "url": "باز-طراحی-لوگو-o84oeonoo409",
+   "shortened_url": "klnc.ir/l/je11nk8q",
+   "user_id": 45669,
+   "title": "باز طراحی لوگو",
+   "views": 709,
+   "description": "باز طراحی لوگو",
+   "likes": 0,
+   "banner": {
+    "id": 508398,
+    "user_id": 45669,
+    "mime_type": "image/jpeg",
+    "name": "M4.jpg",
+    "url": "https://www.karlancer.com/api/file/1666441335-Akww.jpg",
+    "size": 1690355,
+    "text_detected": null
+   },
+   "skills": [
+    {
+     "id": 14,
+     "name": "طراحی لوگو",
+     "display": "طراحی لوگو",
+     "value": 14
+    },
+    {
+     "id": 1363,
+     "name": "طراحی کارت ویزیت",
+     "display": "طراحی کارت ویزیت",
+     "value": 1363
+    },
+    {
+     "id": 16590,
+     "name": "طراحی لوگو موشن",
+     "display": "طراحی لوگو موشن",
+     "value": 16590
+    },
+    {
+     "id": 6958,
+     "name": "طراحی لوگوتایپ",
+     "display": "طراحی لوگوتایپ",
+     "value": 6958
+    }
+   ],
+   "file_urls": [
+    {
+     "id": 508398,
+     "user_id": 45669,
+     "mime_type": "image/jpeg",
+     "name": "M4.jpg",
+     "url": "https://www.karlancer.com/api/file/1666441335-Akww.jpg",
+     "size": 1690355,
+     "text_detected": null
+    }
+   ],
+   "user": {
+    "id": 45669,
+    "username": "Narges.S",
+    "role": "freelancer",
+    "rate": 4.8,
+    "rate_num": 230,
+    "quiz_type": null,
+    "quiz_num": null,
+    "country": "تهران",
+    "city": null,
+    "avatar": "https://www.karlancer.com/f/avatar/2552/1766856485-Z95q.jpg",
+    "active_plan_id": 10,
+    "profile_status_info": {
+     "verified_national_card": true
+    },
+    "verified_national_card": true
+   },
+   "created_at": "2022-10-22T12:22:41.000000Z",
+   "updated_at": "2023-09-14T02:22:11.000000Z"
+  },
+  {
+   "id": 92031,
+   "url": "طراحی-لوگو-254560mmnwre",
+   "shortened_url": "klnc.ir/worksample/طراحی-لوگو-254560mmnwre",
+   "user_id": 57745,
+   "title": "طراحی لوگو",
+   "views": 0,
+   "description": "ساخت لوگو کافه نگار",
+   "likes": 0,
+   "banner": {
+    "id": 368859,
+    "user_id": 57745,
+    "mime_type": "image/jpeg",
+    "name": "Logo-CoffeNegar.jpg",
+    "url": "https://www.karlancer.com/api/file/1654520166-vQff.jpg",
+    "size": 111280,
+    "text_detected": null
+   },
+   "skills": [
+    {
+     "id": 14,
+     "name": "طراحی لوگو",
+     "display": "طراحی لوگو",
+     "value": 14
+    },
+    {
+     "id": 50187,
+     "name": "ایلوستریتور",
+     "display": "ایلوستریتور",
+     "value": 50187
+    },
+    {
+     "id": 2048,
+     "name": "فتوشاپ (photoshop)",
+     "display": "فتوشاپ (photoshop)",
+     "value": 2048
+    },
+    {
+     "id": 1310,
+     "name": "طراحی گرافیک",
+     "display": "طراحی گرافیک",
+     "value": 1310
+    },
+    {
+     "id": 6356,
+     "name": "وکتور",
+     "display": "وکتور",
+     "value": 6356
+    }
+   ],
+   "file_urls": [
+    {
+     "id": 368859,
+     "user_id": 57745,
+     "mime_type": "image/jpeg",
+     "name": "Logo-CoffeNegar.jpg",
+     "url": "https://www.karlancer.com/api/file/1654520166-vQff.jpg",
+     "size": 111280,
+     "text_detected": null
+    }
+   ],
+   "user": {
+    "id": 57745,
+    "username": "Mohammad.Kh",
+    "role": "freelancer",
+    "rate": 4.8,
+    "rate_num": 87,
+    "quiz_type": null,
+    "quiz_num": 0,
+    "country": "سمنان",
+    "city": null,
+    "avatar": "https://www.karlancer.com/f/avatar/2610/1772817311-6fNc.png",
+    "active_plan_id": 10,
+    "profile_status_info": {
+     "verified_national_card": true
+    },
+    "verified_national_card": true
+   },
+   "created_at": "2022-06-06T12:57:22.000000Z",
+   "updated_at": "2023-06-06T12:35:50.000000Z"
+  }
+ ],
+ "error": null
+}
