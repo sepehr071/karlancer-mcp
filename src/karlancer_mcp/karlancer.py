@@ -84,7 +84,12 @@ async def kl_projects(
     min_budget: Annotated[int | None, Field(description="Minimum budget in Toman.")] = None,
     max_budget: Annotated[int | None, Field(description="Maximum budget in Toman.")] = None,
     urgent: Annotated[bool, Field(description="Only urgent projects.")] = False,
-    low_competition: Annotated[bool, Field(description="Only projects with few bids so far.")] = False,
+    low_competition: Annotated[
+        bool,
+        Field(
+            description="Only projects flagged as low competition; filtered per page, so a page may hold fewer than 24."
+        ),
+    ] = False,
     order: Annotated[
         Literal["newest", "last-updated", "max-budget", "min-budget"],
         Field(
@@ -115,7 +120,9 @@ async def kl_projects(
             **_skill_params(skills),
         },
     )
-    return _page(d, [_project_card(p) for p in d["data"]], order=d.get("order"))
+    # the site's own low_competition filter barely narrows the list, so keep only flagged rows on this page
+    rows = [p for p in d["data"] if p.get("low_hire")] if low_competition else d["data"]
+    return _page(d, [_project_card(p) for p in rows], order=d.get("order"))
 
 
 @tool("Project details")
@@ -227,7 +234,7 @@ async def kl_freelancers(
         {
             "q": query or None,
             "province": province,
-            "last_visit": "true" if active_recently else None,
+            "last_visit": "1" if active_recently else None,  # the site rejects "true" here (HTTP 422)
             "order": order,
             "page": page if page > 1 else None,
             **_skill_params(skills),
@@ -540,16 +547,16 @@ async def kl_market_rate(
     )
     *proj_pages, services, freelancers = pages
     projects = [p for d in proj_pages for p in d["data"]]
-    mids = [(p["min_budget"] + p["max_budget"]) // 2 for p in projects if p.get("max_budget")]
+    mids = [(int(p["min_budget"] or 0) + int(p["max_budget"])) // 2 for p in projects if p.get("max_budget")]
     return {
         "open_projects": proj_pages[0].get("total"),
         "projects_sampled": len(projects),
         "project_budget_toman": _spread(mids),
         "project_duration_days_median": int(median(d))
-        if (d := [p["job_duration"] for p in projects if p.get("job_duration")])
+        if (d := [int(p["job_duration"]) for p in projects if p.get("job_duration")])
         else None,
         "services_found": services.get("total"),
-        "service_price_toman": _spread([s["budget"] for s in services["data"] if s.get("budget")]),
+        "service_price_toman": _spread([int(s["budget"]) for s in services["data"] if s.get("budget")]),
         "freelancers_with_skill": freelancers.get("total"),
         "note": "Computed from the newest projects and best-ranked services; budget = midpoint of each project's range.",
     }

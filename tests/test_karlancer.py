@@ -107,7 +107,7 @@ async def test_freelancers_and_top(client, api):
         )
     ).structured_content
     q = api.calls[0].url.params
-    assert q["province"] == "اصفهان" and q["last_visit"] == "true" and q["skillIds[0]"] == "9923"
+    assert q["province"] == "اصفهان" and q["last_visit"] == "1" and q["skillIds[0]"] == "9923"
     f = r["results"][0]
     assert f["url"] == f"https://www.karlancer.com/profile/{f['id']}" and f["skills"] and f["username"]
     t = (await client.call_tool("kl_top_freelancers", {})).structured_content
@@ -204,6 +204,12 @@ async def test_market_rate_and_trending_are_computed_from_samples(client, api):
     spread = m["project_budget_toman"]
     assert spread["low"] <= spread["median"] <= spread["high"] and m["projects_sampled"] == 2
     assert m["service_price_toman"]["median"] > 0 and m["freelancers_with_skill"] > 0
+    ps = fixture("projects.json")
+    for x in ps["data"]["data"]:
+        x["min_budget"], x["max_budget"] = str(x["min_budget"]), str(x["max_budget"])
+    api[P + "/search/projects"] = ps
+    m = (await client.call_tool("kl_market_rate", {"skill": 9923, "sample_pages": 1})).structured_content
+    assert m["project_budget_toman"]["median"] > 0
     bad = await client.call_tool("kl_market_rate", {})
     assert bad.is_error
     t = (await client.call_tool("kl_trending_skills", {"pages": 1, "top": 3})).structured_content
