@@ -1,6 +1,6 @@
 [project]
 name = "karlancer-mcp"
-version = "0.1.1"
+version = "0.2.0"
 description = "Unofficial read-only MCP server for Karlancer (karlancer.com), the Iranian freelance marketplace: projects, freelancers, services."
 readme = "README.md"
 license = "MIT"
