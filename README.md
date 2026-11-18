@@ -123,22 +123,6 @@ from the search tools, freelancer ids from `kl_freelancers` or `kl_top_freelance
 
 All 14 tools are annotated `readOnlyHint: true`.
 
-## How it works
-
-```text
-  AI agent  (Claude, Cursor, Copilot, ...)
-      │  MCP over stdio
-      ▼
-  karlancer-mcp  (runs on your machine)
-      │  HTTPS
-      ▼
-  www.karlancer.com/api/publics/...   the JSON the Karlancer web app itself loads
-```
-
-`karlancer-mcp` calls the same public JSON endpoints the karlancer.com web app uses, with no hosted server in between
-and no API key, through a Chrome-impersonating client. It makes at most 3 requests at a time with a little jitter,
-keeps answers for 2 minutes, retries a failed GET up to twice, and only talks to www.karlancer.com. It only reads.
-
 ## Good to know
 
 - **Budgets are Toman.** A project has a min and max budget; some are fixed (equal).
